@@ -1,6 +1,6 @@
 # Docker file used to create an environment with which to build a release
 
-FROM ubuntu:bionic
+FROM ubuntu:18.04
 
 # Install Dependencies
 # Upgrade any ubuntu packages
